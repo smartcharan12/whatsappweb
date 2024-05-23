@@ -2,6 +2,7 @@ import { Dialog, styled } from "@mui/material";
 import Menu from "./menu/Menu";
 import { Box } from "@mui/system";
 import EmptyChat from "./chat-app/EmptyChat";
+
 const modifiedDialog = {
   height: "95%",
   margin: "20px",
