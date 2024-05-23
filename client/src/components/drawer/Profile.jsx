@@ -1,5 +1,5 @@
 import { Box, Typography, styled } from "@mui/material";
-import { AccountContext } from "../AccountProvide";
+import { AccountContext } from "../context/AccountProvide";
 import { useContext } from "react";
 const Image = styled(Box)`
   display: flex;

@@ -4,7 +4,7 @@ import { Chat as MessageIcon } from "@mui/icons-material";
 import HeaderMenu from "./HeaderMenu";
 
 import { AccountContext } from "../../../context/AccountProvide";
-import InfoDrawer from "../../../context/drawer/InfoDrawer";
+import InfoDrawer from "../../../drawer/InfoDrawer";
 const Component = styled(Box)`
   height: 44px;
 
